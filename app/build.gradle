@@ -5,7 +5,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.hypech.case11_tab_non_sliding"
+        applicationId "com.hypech.case14_tab_non_sliding"
         minSdkVersion 26
         targetSdkVersion 30
         versionCode 1
